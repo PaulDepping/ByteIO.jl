@@ -1,0 +1,11 @@
+name = "ByteIO"
+uuid = "051ae1ab-ebe5-418e-aafd-61ef32424a5b"
+authors = ["Paul Depping <paul.depping@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BitIntegers = "c3b6d118-76ef-56ca-8cc7-ebb389d030a1"
+
+[compat]
+julia = "1.5"
+BitIntegers = "0.2.6"
